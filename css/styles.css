@@ -1,0 +1,66 @@
+html, body {
+    font-family: Roboto Slab, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.concertImage {
+    background: url("https://i.boring.host/LFMJluAJ.jpg");
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    margin: 0 auto;
+}
+
+.ShowcaseImage {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#headertext {
+    margin-top: 10px;
+}
+
+#headertext2{
+    margin-top: 100px;
+}
+
+#headertext3{
+    float: right;
+    margin-top: -60px;
+    margin-right:350px;
+}
+
+.marginImage {
+    margin-top: 10px;
+}
+
+#bottomtext{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+#bottomtext2{
+    margin-left: 400px;
+    margin-top: -60px;
+}
+
+#bottomtext3{
+    margin-left: 400px;
+    margin-top: -160px;
+}
+
+#handbaluitslagen{
+    margin-left: 90px;
+}
+
+#handballogo{
+    margin-top:20px;
+    margin-left: -50px;
+}
+
+#karateimg{
+    margin: 0 auto;
+}
+
